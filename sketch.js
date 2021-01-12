@@ -153,7 +153,7 @@ function draw() {
     textSize(60);
     fill("red");
     text("You Won!!!",220,245);
-    world.remove(World,particle)
+    
    }
    if(gamestate==="end"){
     textSize(60);
